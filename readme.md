@@ -1,4 +1,4 @@
-## Try out puppeteer-go and puppeteer
+## Try Puppeteer
 
 ## What we have in src?
 1. Puppeteer official example in p-1
