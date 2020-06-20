@@ -13,6 +13,6 @@ at root folder
 `node .\src\puppet\<filename>.js`
 
 ## Reference
-https://paul.kinlan.me/puppeteer-go/
-https://wcc723.github.io/development/2020/03/01/puppeteer/
+- https://paul.kinlan.me/puppeteer-go/
+- https://wcc723.github.io/development/2020/03/01/puppeteer/
 
